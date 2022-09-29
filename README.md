@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @subhasisbanik
 - 👀 I’m interested in Blockchain and other associative technologies
 - 🌱 I’m currently learning Hashicorp and also Layer 2 in Blockchain
-- 📫 Reach me on Github or email me in subhasis.banik@pm.me
+- 📫 Reach me https://linktr.ee/subhb or email me in subhb.dev@proton.me
+
 
 <!---
 subhasisbanik/subhasisbanik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
