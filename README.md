@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Enterprise Blockchain based projects<br>👯 I’m looking to collaborate on Blockchain solutions<br>🌱 I’m currently learning Layer 2 Blockchain, Hashicorp Vault and Consul & Azure Cloud<br>💬 Ask me about Enterprise Blockchain
+🔭 I’m currently working on Enterprise Blockchain based projects<br>👯 I’m looking to collaborate on Blockchain solutions<br>🌱 I’m currently learning Google Cloud, Layer 2 Blockchain, Hashicorp Vault and Consul & Azure Cloud<br>💬 Ask me about Enterprise Blockchain
 
 
 ## 🌐 Socials:
